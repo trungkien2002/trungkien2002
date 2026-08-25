@@ -32,4 +32,3 @@ As a newbie learning to code in mobile programming =))
   - [Bản fork trên tài khoản của tôi](https://github.com/trungkien2002/store-hub-server)
   - [Xem lịch sử đóng góp](https://github.com/Biggiezz/store-hub-server/commits?author=trungkien2002)
 
-> Hai repository trên tài khoản này là các bản fork phục vụ việc tiếp tục phát triển độc lập. Dự án gốc thuộc về chủ sở hữu tương ứng và chỉ nhận thay đổi khi có pull request được chấp thuận.
