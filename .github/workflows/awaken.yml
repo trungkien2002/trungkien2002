@@ -1,0 +1,22 @@
+name: Awaken
+on:
+  schedule:
+    - cron: '10 17 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [awaken.json, .github/workflows/awaken.yml]
+permissions:
+  contents: write
+concurrency:
+  group: awaken
+  cancel-in-progress: true
+jobs:
+  awaken:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - uses: billtruong003/git-profile-awaken@63e710f12f445dd928678a48e61b3163da9af097
+        with:
+          commit-message: 'Cập nhật bảng chỉ số GitHub hằng ngày [skip ci]'

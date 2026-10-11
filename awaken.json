@@ -1,0 +1,72 @@
+{
+  "username": "trungkien2002",
+  "layout": "custom",
+  "theme": "solo_leveling",
+  "activity": "arise",
+  "title": "auto",
+  "icons": "brand",
+  "motion": "full",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "hours": true,
+  "widgets": [
+    "banner",
+    "hunter",
+    "skills",
+    "web",
+    "arsenal",
+    "activity",
+    "contribution",
+    "combat",
+    "daily",
+    "hours",
+    "spotlight",
+    "contacts"
+  ],
+  "banner": {
+    "style": "glitch",
+    "lines": [
+      "TRUNG KIEN // DEVELOPER SYSTEM",
+      "MOBILE DEV + DESKTOP TOOLS",
+      "BUILD. LEARN. LEVEL UP."
+    ]
+  },
+  "arsenal": [
+    "Java",
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "HTML5",
+    "Firebase",
+    "MongoDB",
+    "Vercel",
+    "GitHub"
+  ],
+  "spotlight": [
+    "K-Audio",
+    "K-Video",
+    "k-mask",
+    "store-hub"
+  ],
+  "socials": [
+    {
+      "type": "github",
+      "url": "https://github.com/trungkien2002",
+      "label": "GitHub"
+    },
+    {
+      "type": "linkedin",
+      "url": "https://www.linkedin.com/in/tran-trung-kien-924771420/",
+      "label": "LinkedIn"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/trungkien.02.t",
+      "label": "Facebook"
+    },
+    {
+      "type": "email",
+      "url": "mailto:trungkienptx02@gmail.com",
+      "label": "Email"
+    }
+  ]
+}
