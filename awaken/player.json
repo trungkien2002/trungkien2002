@@ -2,7 +2,7 @@
   "login": "trungkien2002",
   "level": 5,
   "overall": "C",
-  "overallPercentile": 0.7144316844619777,
+  "overallPercentile": 0.7166202338039049,
   "layout": "custom",
   "class": {
     "name": "Blade Master",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 76,
+      "value": 77,
       "rank": "C",
-      "percentile": 0.6129201183264689
+      "percentile": 0.6160635055032752
     },
     {
       "code": "AGI",
-      "value": 4,
+      "value": 5,
       "rank": "C",
-      "percentile": 0.7264678925031302
+      "percentile": 0.7471618518819576
     },
     {
       "code": "INT",
@@ -51,6 +51,13 @@
   "events": [
     {
       "kind": "achievement",
+      "subject": "night-owl",
+      "from": "1",
+      "to": "2",
+      "at": "2026-10-12T23:35:18.727Z"
+    },
+    {
+      "kind": "achievement",
       "subject": "collector",
       "from": "0",
       "to": "1",
@@ -61,22 +68,22 @@
     {
       "id": "pull-shark",
       "tier": 1,
-      "value": 4
+      "value": 5
     },
     {
       "id": "quickdraw",
       "tier": 1,
-      "value": 2
+      "value": 3
     },
     {
       "id": "yolo",
       "tier": 1,
-      "value": 4
+      "value": 5
     },
     {
       "id": "relentless",
       "tier": 0,
-      "value": 76
+      "value": 77
     },
     {
       "id": "unbroken",
@@ -85,8 +92,8 @@
     },
     {
       "id": "night-owl",
-      "tier": 1,
-      "value": 26
+      "tier": 2,
+      "value": 30
     },
     {
       "id": "early-bird",
@@ -151,12 +158,12 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 27
+      "value": 28
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "perfect-week",
@@ -166,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 5
+      "value": 8
     },
     {
       "id": "boss-slayer",
@@ -181,11 +188,16 @@
     {
       "id": "collector",
       "tier": 1,
-      "value": 4
+      "value": 5
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-12",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-11",
         "cleared": 2,
@@ -197,18 +209,19 @@
         "total": 3
       }
     ],
-    "perfectDays": 1,
-    "run": 0,
+    "perfectDays": 2,
+    "run": 1,
     "bestRun": 1,
-    "questsDone": 5,
+    "questsDone": 8,
     "bosses": [],
     "escapes": 1,
     "kinds": [
       "contribute",
       "average",
       "commit",
-      "two-repos"
+      "two-repos",
+      "streak"
     ]
   },
-  "syncedAt": "2026-10-11T20:54:59.091Z"
+  "syncedAt": "2026-10-12T23:35:18.727Z"
 }
