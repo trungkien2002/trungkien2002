@@ -2,7 +2,7 @@
   "login": "trungkien2002",
   "level": 5,
   "overall": "C",
-  "overallPercentile": 0.7166202338039049,
+  "overallPercentile": 0.7178055947498944,
   "layout": "custom",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 77,
+      "value": 81,
       "rank": "C",
-      "percentile": 0.6160635055032752
+      "percentile": 0.6281810798523243
     },
     {
       "code": "AGI",
@@ -83,7 +83,7 @@
     {
       "id": "relentless",
       "tier": 0,
-      "value": 77
+      "value": 81
     },
     {
       "id": "unbroken",
@@ -103,7 +103,7 @@
     {
       "id": "weekend-warrior",
       "tier": 0,
-      "value": 18
+      "value": 17
     },
     {
       "id": "gate-opener",
@@ -158,7 +158,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 28
+      "value": 29
     },
     {
       "id": "daily-grinder",
@@ -173,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 8
+      "value": 10
     },
     {
       "id": "boss-slayer",
@@ -194,6 +194,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-13",
+        "cleared": 2,
+        "total": 3
+      },
+      {
         "date": "2026-10-12",
         "cleared": 3,
         "total": 3
@@ -210,9 +215,9 @@
       }
     ],
     "perfectDays": 2,
-    "run": 1,
+    "run": 0,
     "bestRun": 1,
-    "questsDone": 8,
+    "questsDone": 10,
     "bosses": [],
     "escapes": 1,
     "kinds": [
@@ -223,5 +228,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-10-12T23:35:18.727Z"
+  "syncedAt": "2026-10-13T21:47:58.765Z"
 }
