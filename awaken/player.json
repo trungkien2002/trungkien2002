@@ -9,7 +9,7 @@
     "element": "Lightning",
     "from": "TypeScript"
   },
-  "title": "Veteran",
+  "title": "The Collector",
   "stats": [
     {
       "code": "STR",
@@ -49,6 +49,13 @@
     }
   ],
   "events": [
+    {
+      "kind": "achievement",
+      "subject": "collector",
+      "from": "1",
+      "to": "2",
+      "at": "2026-10-17T19:15:24.565Z"
+    },
     {
       "kind": "achievement",
       "subject": "boss-slayer",
@@ -180,7 +187,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 16
+      "value": 17
     },
     {
       "id": "boss-slayer",
@@ -194,12 +201,17 @@
     },
     {
       "id": "collector",
-      "tier": 1,
-      "value": 6
+      "tier": 2,
+      "value": 7
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-17",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-16",
         "cleared": 2,
@@ -239,7 +251,7 @@
     "perfectDays": 2,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 16,
+    "questsDone": 17,
     "bosses": [
       "2026-10-12"
     ],
@@ -250,8 +262,9 @@
       "commit",
       "two-repos",
       "streak",
-      "three"
+      "three",
+      "star"
     ]
   },
-  "syncedAt": "2026-10-16T19:53:44.968Z"
+  "syncedAt": "2026-10-17T19:15:24.565Z"
 }
