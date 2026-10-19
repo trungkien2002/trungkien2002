@@ -69,13 +69,6 @@
       "from": "1",
       "to": "2",
       "at": "2026-10-12T23:35:18.727Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-11T20:54:59.091Z"
     }
   ],
   "achievements": [
@@ -187,7 +180,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 18
+      "value": 19
     },
     {
       "id": "boss-slayer",
@@ -207,6 +200,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-19",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-18",
         "cleared": 1,
@@ -256,7 +254,7 @@
     "perfectDays": 2,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 18,
+    "questsDone": 19,
     "bosses": [
       "2026-10-12"
     ],
@@ -272,5 +270,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-10-18T19:23:13.695Z"
+  "syncedAt": "2026-10-19T21:26:14.908Z"
 }
