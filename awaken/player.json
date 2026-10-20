@@ -62,13 +62,6 @@
       "from": "0",
       "to": "1",
       "at": "2026-10-15T20:17:03.696Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "night-owl",
-      "from": "1",
-      "to": "2",
-      "at": "2026-10-12T23:35:18.727Z"
     }
   ],
   "achievements": [
@@ -180,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 19
+      "value": 20
     },
     {
       "id": "boss-slayer",
@@ -200,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-20",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-19",
         "cleared": 1,
@@ -254,7 +252,7 @@
     "perfectDays": 2,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 19,
+    "questsDone": 20,
     "bosses": [
       "2026-10-12"
     ],
@@ -270,5 +268,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-10-19T21:26:14.908Z"
+  "syncedAt": "2026-10-20T20:28:39.630Z"
 }
