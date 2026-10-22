@@ -39,7 +39,7 @@ Learning by building, one project at a time.
 </p>
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/daily-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/daily-light.svg"><img src="awaken/daily-dark.svg" width="49%" alt="trungkien2002: penalty zone"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/daily-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/daily-light.svg"><img src="awaken/daily-dark.svg" width="49%" alt="trungkien2002: daily quest"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/hours-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/hours-light.svg"><img src="awaken/hours-dark.svg" width="49%" alt="trungkien2002: hunting hours"></picture>
 </p>
 
