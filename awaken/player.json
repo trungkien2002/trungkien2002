@@ -2,7 +2,7 @@
   "login": "trungkien2002",
   "level": 5,
   "overall": "C",
-  "overallPercentile": 0.7213683795875454,
+  "overallPercentile": 0.7220224511985388,
   "layout": "custom",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 91,
+      "value": 92,
       "rank": "C",
-      "percentile": 0.655613768138341
+      "percentile": 0.6581552643742566
     },
     {
       "code": "AGI",
@@ -76,7 +76,7 @@
     {
       "id": "relentless",
       "tier": 0,
-      "value": 91
+      "value": 92
     },
     {
       "id": "unbroken",
@@ -151,7 +151,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 31
+      "value": 32
     },
     {
       "id": "daily-grinder",
@@ -166,7 +166,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 22
+      "value": 23
     },
     {
       "id": "boss-slayer",
@@ -186,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-23",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-22",
         "cleared": 2,
@@ -255,7 +260,7 @@
     "perfectDays": 2,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 22,
+    "questsDone": 23,
     "bosses": [
       "2026-10-12"
     ],
@@ -271,5 +276,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-10-22T20:30:36.685Z"
+  "syncedAt": "2026-10-23T20:20:08.444Z"
 }
