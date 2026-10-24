@@ -48,15 +48,7 @@
       "percentile": 0.6689367771328458
     }
   ],
-  "events": [
-    {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "1",
-      "to": "2",
-      "at": "2026-10-17T19:15:24.565Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -166,7 +158,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 23
+      "value": 25
     },
     {
       "id": "boss-slayer",
@@ -186,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-24",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-23",
         "cleared": 1,
@@ -260,7 +257,7 @@
     "perfectDays": 2,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 23,
+    "questsDone": 25,
     "bosses": [
       "2026-10-12"
     ],
@@ -276,5 +273,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-10-23T20:20:08.444Z"
+  "syncedAt": "2026-10-24T19:24:46.064Z"
 }
