@@ -163,17 +163,17 @@
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 3
+      "value": 4
     },
     {
       "id": "perfect-week",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 28
+      "value": 31
     },
     {
       "id": "boss-slayer",
@@ -193,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-26",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-25",
         "cleared": 3,
@@ -274,10 +279,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 3,
-    "run": 1,
-    "bestRun": 1,
-    "questsDone": 28,
+    "perfectDays": 4,
+    "run": 2,
+    "bestRun": 2,
+    "questsDone": 31,
     "bosses": [
       "2026-10-19",
       "2026-10-12"
@@ -295,5 +300,5 @@
       "weekend"
     ]
   },
-  "syncedAt": "2026-10-25T19:32:10.256Z"
+  "syncedAt": "2026-10-26T21:35:20.488Z"
 }
