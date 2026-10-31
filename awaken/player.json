@@ -194,7 +194,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 37
+      "value": 39
     },
     {
       "id": "boss-slayer",
@@ -214,6 +214,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-31",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-30",
         "cleared": 1,
@@ -323,7 +328,7 @@
     "perfectDays": 5,
     "run": 0,
     "bestRun": 3,
-    "questsDone": 37,
+    "questsDone": 39,
     "bosses": [
       "2026-10-26",
       "2026-10-19",
@@ -342,5 +347,5 @@
       "weekend"
     ]
   },
-  "syncedAt": "2026-10-30T21:25:51.006Z"
+  "syncedAt": "2026-10-31T20:26:09.393Z"
 }
