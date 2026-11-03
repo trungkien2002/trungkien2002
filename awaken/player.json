@@ -55,20 +55,6 @@
       "from": "0",
       "to": "1",
       "at": "2026-10-30T21:25:51.006Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "relentless",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-27T21:13:41.877Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "night-owl",
-      "from": "1",
-      "to": "2",
-      "at": "2026-10-27T21:13:41.877Z"
     }
   ],
   "achievements": [
@@ -115,7 +101,7 @@
     {
       "id": "gate-opener",
       "tier": 1,
-      "value": 15
+      "value": 16
     },
     {
       "id": "raider",
@@ -165,7 +151,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 36
+      "value": 37
     },
     {
       "id": "daily-grinder",
@@ -180,7 +166,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 42
+      "value": 44
     },
     {
       "id": "boss-slayer",
@@ -200,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-03",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-02",
         "cleared": 2,
@@ -324,7 +315,7 @@
     "perfectDays": 5,
     "run": 0,
     "bestRun": 3,
-    "questsDone": 42,
+    "questsDone": 44,
     "bosses": [
       "2026-10-26",
       "2026-10-19",
@@ -343,5 +334,5 @@
       "weekend"
     ]
   },
-  "syncedAt": "2026-11-02T23:50:59.308Z"
+  "syncedAt": "2026-11-03T22:15:49.512Z"
 }
