@@ -48,15 +48,7 @@
       "percentile": 0.6689367771328458
     }
   ],
-  "events": [
-    {
-      "kind": "achievement",
-      "subject": "quest-hunter",
-      "from": "0",
-      "to": "1",
-      "at": "2026-11-10T00:38:55.918Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -186,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-16",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-15",
         "cleared": 0,
@@ -395,5 +392,5 @@
       "weekend"
     ]
   },
-  "syncedAt": "2026-11-15T21:40:39.569Z"
+  "syncedAt": "2026-11-17T00:44:48.243Z"
 }
