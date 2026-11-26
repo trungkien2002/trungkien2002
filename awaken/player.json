@@ -133,7 +133,7 @@
     {
       "id": "veteran",
       "tier": 2,
-      "value": 3
+      "value": 4
     },
     {
       "id": "berserker",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-25",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-24",
         "cleared": 0,
@@ -432,5 +437,5 @@
       "weekend"
     ]
   },
-  "syncedAt": "2026-11-25T01:21:27.201Z"
+  "syncedAt": "2026-11-26T00:56:38.839Z"
 }
